@@ -1,2 +1,2 @@
-require_relative 'pickled_optparse/pickled_optparse'
-require_relative 'pickled_optparse/version'
+require 'pickled_optparse/pickled_optparse'
+require 'pickled_optparse/version'
